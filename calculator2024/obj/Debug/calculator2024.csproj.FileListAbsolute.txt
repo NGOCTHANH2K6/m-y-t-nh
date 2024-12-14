@@ -1,0 +1,10 @@
+C:\calculator\calculator2024\calculator2024\bin\Debug\calculator2024.exe.config
+C:\calculator\calculator2024\calculator2024\bin\Debug\calculator2024.exe
+C:\calculator\calculator2024\calculator2024\bin\Debug\calculator2024.pdb
+C:\calculator\calculator2024\calculator2024\obj\Debug\calculator2024.csproj.AssemblyReference.cache
+C:\calculator\calculator2024\calculator2024\obj\Debug\calculator2024.Form1.resources
+C:\calculator\calculator2024\calculator2024\obj\Debug\calculator2024.Properties.Resources.resources
+C:\calculator\calculator2024\calculator2024\obj\Debug\calculator2024.csproj.GenerateResource.cache
+C:\calculator\calculator2024\calculator2024\obj\Debug\calculator2024.csproj.CoreCompileInputs.cache
+C:\calculator\calculator2024\calculator2024\obj\Debug\calculator2024.exe
+C:\calculator\calculator2024\calculator2024\obj\Debug\calculator2024.pdb
