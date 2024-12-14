@@ -3,7 +3,7 @@
   "WorkspaceRootPath": "C:\\calculator\\calculator2024\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9E43F5C1-786E-498A-ADFB-E17CCEB36A44}|calculator2024\\calculator2024.csproj|C:\\calculator\\calculator2024\\calculator2024\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9E43F5C1-786E-498A-ADFB-E17CCEB36A44}|calculator2024\\calculator2024.csproj|c:\\calculator\\calculator2024\\calculator2024\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9E43F5C1-786E-498A-ADFB-E17CCEB36A44}|calculator2024\\calculator2024.csproj|solutionrelative:calculator2024\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -11,7 +11,7 @@
       "RelativeMoniker": "D:0:0:{9E43F5C1-786E-498A-ADFB-E17CCEB36A44}|calculator2024\\calculator2024.csproj|solutionrelative:calculator2024\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9E43F5C1-786E-498A-ADFB-E17CCEB36A44}|calculator2024\\calculator2024.csproj|c:\\calculator\\calculator2024\\calculator2024\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{9E43F5C1-786E-498A-ADFB-E17CCEB36A44}|calculator2024\\calculator2024.csproj|C:\\calculator\\calculator2024\\calculator2024\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{9E43F5C1-786E-498A-ADFB-E17CCEB36A44}|calculator2024\\calculator2024.csproj|solutionrelative:calculator2024\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
@@ -22,7 +22,7 @@
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
-      "VerticalTabListWidth": 131,
+      "VerticalTabListWidth": 259,
       "DocumentGroups": [
         {
           "DockedWidth": 200,
@@ -39,8 +39,7 @@
               "ViewState": "AgIAAFcAAAAAAAAAAAAcwF8AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-14T04:59:38.128Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
@@ -62,7 +61,7 @@
               "RelativeDocumentMoniker": "calculator2024\\Form1.Designer.cs",
               "ToolTip": "C:\\calculator\\calculator2024\\calculator2024\\Form1.Designer.cs",
               "RelativeToolTip": "calculator2024\\Form1.Designer.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAowBYAAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAowBgAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-14T05:08:41.37Z",
               "EditorCaption": ""
@@ -76,8 +75,7 @@
               "ToolTip": "C:\\calculator\\calculator2024\\calculator2024\\Form1.cs [Design]",
               "RelativeToolTip": "calculator2024\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-14T04:14:57.084Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-12-14T04:14:57.084Z"
             }
           ]
         }

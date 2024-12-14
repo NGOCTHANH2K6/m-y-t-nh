@@ -18,10 +18,11 @@
                 components.Dispose();
             }
             base.Dispose(disposing);
-        }   
+        }
 
         #region Windows Form Designer generated code
-
+        /// test git hub
+        /// thanh da code o day
         /// <summary>
         /// Required method for Designer support - do not modify
         /// the contents of this method with the code editor.
